@@ -1,0 +1,2 @@
+# PrivacyPolicy
+Package Name Scripter
